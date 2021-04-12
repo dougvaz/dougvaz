@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi, I'm Douglas
+
+💻 Software Engineer and currently working on [Stefanini](http://stefanini.com.br/) <br>
+🏡 Brazilian, Based in Atibaia, SP - I live with my wife 👩 and my pet 🐶
 
 <!--
 **dougvaz/dougvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
